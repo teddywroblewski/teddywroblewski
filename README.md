@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @teddywroblewski
-- 👀 I’m interested in science education, genetics, and genomics. 
 - 📫 How to reach me: tadeuszhwroblewski@outlook.com
 
 <!---
